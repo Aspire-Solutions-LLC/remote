@@ -1,2 +1,1 @@
-# remote
-Front end for remote jobs board
+Frontend for Aspire Solution's remote job board.
